@@ -1,0 +1,33 @@
+﻿@model IEnumerable<MvSVG.Models.Valvula>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Inicio</h2>
+
+<p>
+    @Html.ActionLink("Nuevo Registro", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Descripcion)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td style="padding-right:20px;">
+            @Html.DisplayFor(modelItem => item.Descripcion)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.ValvulaID }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.ValvulaID }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.ValvulaID })
+        </td>
+    </tr>
+}
+
+</table>
