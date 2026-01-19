@@ -1,0 +1,15 @@
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\bin\Debug\Mantenimiento.exe.config
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\bin\Debug\Mantenimiento.exe
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\bin\Debug\Mantenimiento.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\bin\Debug\Capa_Entidades.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\bin\Debug\Capa_Negocios.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\bin\Debug\Capa_Datos.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\bin\Debug\Capa_Entidades.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\bin\Debug\Capa_Negocios.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\bin\Debug\Capa_Datos.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\obj\Debug\Mantenimiento.csprojResolveAssemblyReference.cache
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\obj\Debug\Mantenimiento.Form1.resources
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\obj\Debug\Mantenimiento.Properties.Resources.resources
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\obj\Debug\Mantenimiento.csproj.GenerateResource.Cache
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\obj\Debug\Mantenimiento.exe
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Mantenimiento\obj\Debug\Mantenimiento.pdb

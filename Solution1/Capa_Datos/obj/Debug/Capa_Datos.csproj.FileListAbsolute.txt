@@ -1,0 +1,7 @@
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Datos\bin\Debug\Capa_Datos.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Datos\bin\Debug\Capa_Datos.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Datos\bin\Debug\Capa_Entidades.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Datos\bin\Debug\Capa_Entidades.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Datos\obj\Debug\Capa_Datos.csprojResolveAssemblyReference.cache
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Datos\obj\Debug\Capa_Datos.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Datos\obj\Debug\Capa_Datos.pdb

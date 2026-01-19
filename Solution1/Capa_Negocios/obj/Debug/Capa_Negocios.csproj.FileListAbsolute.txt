@@ -1,0 +1,9 @@
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Negocios\bin\Debug\Capa_Negocios.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Negocios\bin\Debug\Capa_Negocios.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Negocios\bin\Debug\Capa_Datos.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Negocios\bin\Debug\Capa_Entidades.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Negocios\bin\Debug\Capa_Datos.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Negocios\bin\Debug\Capa_Entidades.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Negocios\obj\Debug\Capa_Negocios.csprojResolveAssemblyReference.cache
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Negocios\obj\Debug\Capa_Negocios.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Solution1\Capa_Negocios\obj\Debug\Capa_Negocios.pdb
