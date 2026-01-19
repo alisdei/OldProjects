@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Proyecto_RattoBoutique.Models.TipoDocumentoModels>
+
+@{
+    ViewBag.Title = "Index";
+    System.Web.HttpContext.Current.Session["MenuOpcion"] = "Tipo de Documento"; 
+}
+
+<div class="row-fluid">
+    <div class="block span6">
+        <a href="#widget1container" class="block-heading" data-toggle="collapse">Busqueda </a>
+        <div id="widget1container" class="block-body collapse in">
+            @using (Html.BeginForm())
+            {
+                <p></p>
+                <p>
+                    Descripción:&nbsp;&nbsp;@Html.TextBox("Search_Data", ViewBag.FilterValue as string)
+                </p>
+                <p><input type="submit" value="Buscar" /></p>
+            }
+        </div>
+    </div>
+</div>
+<div class="btn-toolbar">
+    
+    <button class="btn btn-primary"  onclick="location.href='@Url.Action("Create", "TipoDocumento")';return false;"><i class="icon-plus"></i>
+     Nuevo
+     </button>
+        
+ <div class="btn-group">
+  </div>
+</div>
+<div class="well">
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            #
+        </th>
+        <th>
+            @Html.ActionLink("Descripcion", "Index", new { Sorting_Order = ViewBag.SortingName })
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Observacion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th></th>
+    </tr>
+        </thead>
+    <tbody>
+    @{int i = 1;}
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @i
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Descripcion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Observacion)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado)
+        </td>
+        <td>
+            <a href='@Url.Action("Edit", "TipoDocumento", new { id=item.TipoDocumentoID })'><i class="icon-pencil"></i></a>
+              <a href='@Url.Action("Details", "TipoDocumento", new { id=item.TipoDocumentoID })'><i class="icon-search"></i></a>
+        </td>
+    </tr>
+    i++;
+}
+</tbody>
+</table>
+</div>

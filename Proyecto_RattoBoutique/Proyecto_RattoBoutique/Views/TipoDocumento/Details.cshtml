@@ -1,0 +1,44 @@
+﻿@model Proyecto_RattoBoutique.Models.TipoDocumentoModels
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="btn-toolbar">
+    <a href='@Url.Action("Edit", "TipoDocumento", new { id=Model.TipoDocumentoID })' data-toggle="modal" class="btn">Editar</a>
+    <a href='@Url.Action("Index", "TipoDocumento")' data-toggle="modal" class="btn">Regresar</a>
+    <div class="btn-group">
+  </div>
+</div>
+    <div class="well">
+    <ul class="nav nav-tabs">
+      <li class="active"><a href="#home" data-toggle="tab">Tipo Documento</a></li>
+    </ul>
+        <div id="myTabContent" class="tab-content">
+      <div class="tab-pane active in" id="home">
+<fieldset>
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Descripcion)
+    </div>
+    <div class="display-field">
+        @Html.TextBoxFor(model => model.Descripcion, new {disabled = "disabled", @readonly = "readonly" })
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Observacion)
+    </div>
+    <div class="display-field">
+        @Html.TextBoxFor(model => model.Observacion, new {disabled = "disabled", @readonly = "readonly" })
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Estado)
+    </div>
+    <div class="display-field">
+        @Html.CheckBoxFor(model => model.Estado, new {disabled = "disabled", @readonly = "readonly" })
+    </div>
+</fieldset>
+</div>
+        </div>
+   </div>
+

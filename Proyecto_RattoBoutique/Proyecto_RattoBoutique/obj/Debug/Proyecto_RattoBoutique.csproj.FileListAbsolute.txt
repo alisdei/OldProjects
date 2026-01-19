@@ -1,0 +1,135 @@
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Proyecto_RattoBoutique.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Proyecto_RattoBoutique.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Antlr3.Runtime.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.AspNet.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.Core.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\EntityFramework.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Microsoft.Web.Infrastructure.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Newtonsoft.Json.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Helpers.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Mvc.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Optimization.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Razor.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Deployment.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Razor.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebGrease.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.Data.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.WebData.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\EntityFramework.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Newtonsoft.Json.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Helpers.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Mvc.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Razor.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Deployment.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Razor.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.Data.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.WebData.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.AspNet.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.Core.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\obj\Debug\Proyecto_RattoBoutique.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\obj\Debug\Proyecto_RattoBoutique.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_RattoBoutique\Proyecto_RattoBoutique\obj\Debug\Proyecto_RattoBoutique.csprojResolveAssemblyReference.cache
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Proyecto_RattoBoutique.dll.config
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Proyecto_RattoBoutique.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Proyecto_RattoBoutique.pdb
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Antlr3.Runtime.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.Core.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\EntityFramework.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Newtonsoft.Json.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Net.Http.Formatting.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Helpers.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Http.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Http.WebHost.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Mvc.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Optimization.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Razor.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Deployment.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Razor.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebGrease.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.Data.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.WebData.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\EntityFramework.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Newtonsoft.Json.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Net.Http.Formatting.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Helpers.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Http.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Http.WebHost.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Mvc.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Razor.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Deployment.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Razor.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.Data.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.WebData.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.Core.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\obj\Debug\Proyecto_RattoBoutique.dll
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\obj\Debug\Proyecto_RattoBoutique.pdb
+C:\Users\adimas\Desktop\Proyecto_RattoBoutique\Proyecto_RattoBoutique\obj\Debug\Proyecto_RattoBoutique.csprojResolveAssemblyReference.cache
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Proyecto_RattoBoutique.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Proyecto_RattoBoutique.pdb
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Antlr3.Runtime.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.Core.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\EntityFramework.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Newtonsoft.Json.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Helpers.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Mvc.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Optimization.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Razor.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Razor.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebGrease.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.Data.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.WebData.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\EntityFramework.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Newtonsoft.Json.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Helpers.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Mvc.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.Razor.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\System.Web.WebPages.Razor.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.Data.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\WebMatrix.WebData.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.Core.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\obj\Debug\Proyecto_RattoBoutique.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\Proyecto-RattoBoutique\Proyecto_RattoBoutique\Proyecto_RattoBoutique\obj\Debug\Proyecto_RattoBoutique.pdb
