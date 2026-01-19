@@ -1,0 +1,16 @@
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\AccesoDatos\bin\Debug\AccesoDatos.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\AccesoDatos\bin\Debug\AccesoDatos.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\AccesoDatos\bin\Debug\Entidades.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\AccesoDatos\bin\Debug\Entidades.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\AccesoDatos\obj\Debug\AccesoDatos.csprojResolveAssemblyReference.cache
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\AccesoDatos\obj\Debug\AccesoDatos.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\AccesoDatos\obj\Debug\AccesoDatos.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\AccesoDatos\bin\Debug\AccesoDatos.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\AccesoDatos\bin\Debug\AccesoDatos.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\AccesoDatos\bin\Debug\Entidades.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\AccesoDatos\bin\Debug\Entidades.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\AccesoDatos\obj\Debug\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\AccesoDatos\obj\Debug\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\AccesoDatos\obj\Debug\AccesoDa.B2719C34.Up2Date
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\AccesoDatos\obj\Debug\AccesoDatos.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\AccesoDatos\obj\Debug\AccesoDatos.pdb

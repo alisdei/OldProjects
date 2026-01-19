@@ -1,0 +1,11 @@
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\Entidades\bin\Debug\Entidades.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\Entidades\obj\Debug\Entidades.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\Entidades\obj\Debug\Entidades.pdb

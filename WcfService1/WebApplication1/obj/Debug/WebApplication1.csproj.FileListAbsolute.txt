@@ -1,0 +1,63 @@
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\EntityFramework.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\WebGrease.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\EntityFramework.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\WcfService1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\WebApplication1.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.Core.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\EntityFramework.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\System.Web.Providers.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\WebGrease.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\EntityFramework.xml
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.Core.xml
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\obj\Debug\WebAppli.7D14BD69.Up2Date
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WebApplication1\obj\Debug\WebApplication1.pdb

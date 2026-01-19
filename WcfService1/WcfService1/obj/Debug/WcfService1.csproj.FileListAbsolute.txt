@@ -1,0 +1,21 @@
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\WcfService1.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\AccesoDatos.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\Entidades.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\AccesoDatos.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\WcfService1\bin\Entidades.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\bin\WcfService1.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\bin\AccesoDatos.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\bin\Entidades.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\bin\AccesoDatos.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\bin\Entidades.pdb
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\obj\Debug\WcfServi.806E2312.Up2Date
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\ALEXANDER\Documents\Projects_VS_2012\Projects\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

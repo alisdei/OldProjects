@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2954B1F9-8851-4BA7-847D-E7ADA6A1BBE9}|WcfService1\\WcfService1.csproj|c:\\users\\alexander\\documents\\projects_vs_2012\\projects\\wcfservice1\\wcfservice1\\servicios.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954B1F9-8851-4BA7-847D-E7ADA6A1BBE9}|WcfService1\\WcfService1.csproj|solutionrelative:wcfservice1\\servicios.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF5D6765-8E3B-48D4-839D-96B136B0268E}|Entidades\\Entidades.csproj|c:\\users\\alexander\\documents\\projects_vs_2012\\projects\\wcfservice1\\entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF5D6765-8E3B-48D4-839D-96B136B0268E}|Entidades\\Entidades.csproj|solutionrelative:entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92504C9B-EF20-49AC-B320-8D9F8A4D14F2}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\alexander\\documents\\projects_vs_2012\\projects\\wcfservice1\\accesodatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92504C9B-EF20-49AC-B320-8D9F8A4D14F2}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954B1F9-8851-4BA7-847D-E7ADA6A1BBE9}|WcfService1\\WcfService1.csproj|c:\\users\\alexander\\documents\\projects_vs_2012\\projects\\wcfservice1\\wcfservice1\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954B1F9-8851-4BA7-847D-E7ADA6A1BBE9}|WcfService1\\WcfService1.csproj|solutionrelative:wcfservice1\\iservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2954B1F9-8851-4BA7-847D-E7ADA6A1BBE9}|WcfService1\\WcfService1.csproj|c:\\users\\alexander\\documents\\projects_vs_2012\\projects\\wcfservice1\\wcfservice1\\iservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2954B1F9-8851-4BA7-847D-E7ADA6A1BBE9}|WcfService1\\WcfService1.csproj|solutionrelative:wcfservice1\\iservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\Entidades\\Persona.cs",
+              "RelativeDocumentMoniker": "Entidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\Entidades\\Persona.cs",
+              "RelativeToolTip": "Entidades\\Persona.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T04:21:18.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\AccesoDatos\\Datos.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Datos.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\AccesoDatos\\Datos.cs",
+              "RelativeToolTip": "AccesoDatos\\Datos.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T04:20:00.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Servicios.svc.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\WcfService1\\Servicios.svc.cs",
+              "RelativeDocumentMoniker": "WcfService1\\Servicios.svc.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\WcfService1\\Servicios.svc.cs",
+              "RelativeToolTip": "WcfService1\\Servicios.svc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T04:20:32.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicios.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\WcfService1\\IServicios.cs",
+              "RelativeDocumentMoniker": "WcfService1\\IServicios.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\WcfService1\\IServicios.cs",
+              "RelativeToolTip": "WcfService1\\IServicios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T04:20:28.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServicio.cs",
+              "DocumentMoniker": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\WcfService1\\IServicio.cs",
+              "RelativeDocumentMoniker": "WcfService1\\IServicio.cs",
+              "ToolTip": "C:\\Users\\ALEXANDER\\Documents\\Projects_VS_2012\\Projects\\WcfService1\\WcfService1\\IServicio.cs",
+              "RelativeToolTip": "WcfService1\\IServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T04:20:27.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
