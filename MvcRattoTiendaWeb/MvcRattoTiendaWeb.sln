@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcRattoTiendaWeb", "MvcRattoTiendaWeb\MvcRattoTiendaWeb.csproj", "{9003ED13-43D9-4360-B9A0-CABC27B82F0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcRattoTiendaWeb.Tests", "MvcRattoTiendaWeb.Tests\MvcRattoTiendaWeb.Tests.csproj", "{4522720B-A275-423E-92E8-1FD9FF58CDF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9003ED13-43D9-4360-B9A0-CABC27B82F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9003ED13-43D9-4360-B9A0-CABC27B82F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9003ED13-43D9-4360-B9A0-CABC27B82F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9003ED13-43D9-4360-B9A0-CABC27B82F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4522720B-A275-423E-92E8-1FD9FF58CDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4522720B-A275-423E-92E8-1FD9FF58CDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4522720B-A275-423E-92E8-1FD9FF58CDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4522720B-A275-423E-92E8-1FD9FF58CDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
