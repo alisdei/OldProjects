@@ -1,0 +1,32 @@
+﻿@model MvcVenta.Models.TB_PRUEBA
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<fieldset>
+    <legend>TB_PRUEBA</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DES_PRUEBA)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DES_PRUEBA)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DAT_PRUEBA)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DAT_PRUEBA)
+    </div>
+</fieldset>
+@using (Html.BeginForm()) {
+    <p>
+        <input type="submit" value="Delete" /> |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}

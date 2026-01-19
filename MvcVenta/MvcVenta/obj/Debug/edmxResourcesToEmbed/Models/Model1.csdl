@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_VENTASModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DB_VENTASEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="TB_PRUEBA" EntityType="DB_VENTASModel.TB_PRUEBA" />
+  </EntityContainer>
+  <EntityType Name="TB_PRUEBA">
+    <Key>
+      <PropertyRef Name="COD_PRUEBA" />
+    </Key>
+    <Property Name="COD_PRUEBA" Type="Int32" Nullable="false" p1:StoreGeneratedPattern="Identity" />
+    <Property Name="DES_PRUEBA" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+    <Property Name="DAT_PRUEBA" Type="String" MaxLength="250" Unicode="false" FixedLength="false" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<MvcVenta.Models.TB_PRUEBA>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.DES_PRUEBA)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DAT_PRUEBA)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.DES_PRUEBA)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DAT_PRUEBA)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.COD_PRUEBA }) |
+            @Html.ActionLink("Details", "Details", new { id=item.COD_PRUEBA }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.COD_PRUEBA })
+        </td>
+    </tr>
+}
+
+</table>

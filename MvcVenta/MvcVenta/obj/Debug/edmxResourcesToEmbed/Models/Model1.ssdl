@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_VENTASModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="DB_VENTASModelStoreContainer">
+    <EntitySet Name="TB_PRUEBA" EntityType="DB_VENTASModel.Store.TB_PRUEBA" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="TB_PRUEBA">
+    <Key>
+      <PropertyRef Name="COD_PRUEBA" />
+    </Key>
+    <Property Name="COD_PRUEBA" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="DES_PRUEBA" Type="varchar" MaxLength="250" />
+    <Property Name="DAT_PRUEBA" Type="varchar" MaxLength="250" />
+  </EntityType>
+</Schema>

@@ -1,0 +1,43 @@
+﻿@model MvcVenta.Models.TB_PRUEBA
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm()) {
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>TB_PRUEBA</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DES_PRUEBA)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DES_PRUEBA)
+            @Html.ValidationMessageFor(model => model.DES_PRUEBA)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DAT_PRUEBA)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DAT_PRUEBA)
+            @Html.ValidationMessageFor(model => model.DAT_PRUEBA)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

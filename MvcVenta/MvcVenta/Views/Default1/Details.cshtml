@@ -1,0 +1,29 @@
+﻿@model MvcVenta.Models.TB_PRUEBA
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>TB_PRUEBA</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DES_PRUEBA)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DES_PRUEBA)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DAT_PRUEBA)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DAT_PRUEBA)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.COD_PRUEBA }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

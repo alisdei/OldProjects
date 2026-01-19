@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_VENTASModelStoreContainer" CdmEntityContainer="DB_VENTASEntities">
+    <EntitySetMapping Name="TB_PRUEBA">
+      <EntityTypeMapping TypeName="DB_VENTASModel.TB_PRUEBA">
+        <MappingFragment StoreEntitySet="TB_PRUEBA">
+          <ScalarProperty Name="COD_PRUEBA" ColumnName="COD_PRUEBA" />
+          <ScalarProperty Name="DES_PRUEBA" ColumnName="DES_PRUEBA" />
+          <ScalarProperty Name="DAT_PRUEBA" ColumnName="DAT_PRUEBA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
