@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSolGas", "MvcSolGas\MvcSolGas.csproj", "{AD245999-4477-4934-910C-64046CCA1447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcSolGas.Tests", "MvcSolGas.Tests\MvcSolGas.Tests.csproj", "{24FC6328-C1F2-433C-8210-60B1200CDED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD245999-4477-4934-910C-64046CCA1447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD245999-4477-4934-910C-64046CCA1447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD245999-4477-4934-910C-64046CCA1447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD245999-4477-4934-910C-64046CCA1447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FC6328-C1F2-433C-8210-60B1200CDED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FC6328-C1F2-433C-8210-60B1200CDED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FC6328-C1F2-433C-8210-60B1200CDED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FC6328-C1F2-433C-8210-60B1200CDED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
