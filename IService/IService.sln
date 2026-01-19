@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefa.Siia.IService", "IService\Oefa.Siia.IService.csproj", "{59DA0047-6163-447C-A3CF-F876B92AA095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefa.Siia.Service", "Service\Oefa.Siia.Service.csproj", "{BB97BF81-DDFE-4AD8-B46D-C76EE2B8A92B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefa.Siia.WCFServiceHost", "OEFA_WCF_Supervision\Oefa.Siia.WCFServiceHost.csproj", "{ACE02F2F-5836-44AC-8027-E308B2211A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59DA0047-6163-447C-A3CF-F876B92AA095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59DA0047-6163-447C-A3CF-F876B92AA095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59DA0047-6163-447C-A3CF-F876B92AA095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59DA0047-6163-447C-A3CF-F876B92AA095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB97BF81-DDFE-4AD8-B46D-C76EE2B8A92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB97BF81-DDFE-4AD8-B46D-C76EE2B8A92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB97BF81-DDFE-4AD8-B46D-C76EE2B8A92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB97BF81-DDFE-4AD8-B46D-C76EE2B8A92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE02F2F-5836-44AC-8027-E308B2211A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE02F2F-5836-44AC-8027-E308B2211A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE02F2F-5836-44AC-8027-E308B2211A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE02F2F-5836-44AC-8027-E308B2211A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

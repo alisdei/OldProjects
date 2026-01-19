@@ -1,0 +1,4 @@
+c:\users\valenzuela\documents\visual studio 2012\Projects\IService\IService\bin\Debug\IService.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\IService\IService\bin\Debug\IService.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\IService\IService\obj\Debug\IService.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\IService\IService\obj\Debug\IService.pdb

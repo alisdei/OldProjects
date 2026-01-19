@@ -1,0 +1,10 @@
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\bin\Debug\OEFA_WCF_Supervision.exe.config
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\bin\Debug\OEFA_WCF_Supervision.exe
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\bin\Debug\OEFA_WCF_Supervision.pdb
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\bin\Debug\IService.dll
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\bin\Debug\Service.dll
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\bin\Debug\IService.pdb
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\bin\Debug\Service.pdb
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\obj\Debug\Oefa.Siia.WCFHostService.csprojResolveAssemblyReference.cache
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\obj\Debug\OEFA_WCF_Supervision.exe
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\OEFA_WCF_Supervision\obj\Debug\OEFA_WCF_Supervision.pdb

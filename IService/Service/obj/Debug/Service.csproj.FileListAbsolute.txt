@@ -1,0 +1,7 @@
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\Service\bin\Debug\Service.dll
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\Service\bin\Debug\Service.pdb
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\Service\bin\Debug\IService.dll
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\Service\bin\Debug\IService.pdb
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\Service\obj\Debug\Service.dll
+c:\Users\valenzuela\documents\visual studio 2012\Projects\IService\Service\obj\Debug\Service.pdb
