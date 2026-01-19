@@ -1,0 +1,54 @@
+﻿Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Instalando el servicio WCFWindowsServiceSample...
+Creando el origen de EventLog WCFWindowsServiceSample en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Restaurando el registro de eventos al estado anterior para el origen WCFWindowsServiceSample.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Instalando el servicio WCFWindowsServiceSample...
+Creando el origen de EventLog WCFWindowsServiceSample en el registro Application...
+Deshaciendo ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Restaurando el registro de eventos al estado anterior para el origen WCFWindowsServiceSample.
+Excepción durante la fase de retroceso al estado original del instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: No se encontró el origen, pero no se pudo buscar en algunos o todos los registros de eventos. Registros inaccesibles: Security.
+Excepción durante la fase de instalación de retroceso al estado original. Esta excepción se omitirá y se continuará con el retroceso al estado original. Sin embargo, puede que el equipo no recupere el estado inicial hasta que se haya completado esta fase.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Instalando el servicio WCFWindowsServiceSample...
+El servicio WCFWindowsServiceSample se ha instalado correctamente.
+Creando el origen de EventLog WCFWindowsServiceSample en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Quitando el origen de EventLog WCFWindowsServiceSample.
+Se está quitando el servicio WCFWindowsServiceSample del sistema...
+El servicio WCFWindowsServiceSample se ha quitado correctamente del sistema.
+Intento de detener el servicio WCFWindowsServiceSample.
