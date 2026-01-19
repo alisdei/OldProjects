@@ -1,0 +1,246 @@
+﻿Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe.
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe.
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+No se pudieron encontrar instaladores públicos con el atributo RunInstallerAttribute.Yes en el ensamblado C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe.
+Quitar el archivo InstallState porque no hay instaladores.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
+Instalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Instalando el servicio OefaWCFSupervision...
+El servicio OefaWCFSupervision se ha instalado correctamente.
+Creando el origen de EventLog OefaWCFSupervision en el registro Application...
+Confirmando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Desinstalando ensamblado 'C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.InstallLog
+   assemblypath = C:\Users\Valenzuela\Documents\Visual Studio 2012\Projects\OEFA_WCF_Supervision\WCFHost\bin\Debug\WCFHost.exe
+Quitando el origen de EventLog OefaWCFSupervision.
+Se está quitando el servicio OefaWCFSupervision del sistema...
+El servicio OefaWCFSupervision se ha quitado correctamente del sistema.
+Intento de detener el servicio OefaWCFSupervision.
