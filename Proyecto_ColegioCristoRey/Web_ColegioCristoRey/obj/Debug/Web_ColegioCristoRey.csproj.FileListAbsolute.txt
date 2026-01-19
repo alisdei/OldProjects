@@ -1,0 +1,5 @@
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_ColegioCristoRey\Web_ColegioCristoRey\bin\Web_ColegioCristoRey.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_ColegioCristoRey\Web_ColegioCristoRey\bin\Web_ColegioCristoRey.pdb
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_ColegioCristoRey\Web_ColegioCristoRey\obj\Debug\Web_ColegioCristoRey.csprojResolveAssemblyReference.cache
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_ColegioCristoRey\Web_ColegioCristoRey\obj\Debug\Web_ColegioCristoRey.dll
+c:\users\valenzuela\documents\visual studio 2012\Projects\Proyecto_ColegioCristoRey\Web_ColegioCristoRey\obj\Debug\Web_ColegioCristoRey.pdb
